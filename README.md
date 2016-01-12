@@ -1,4 +1,4 @@
-Initio - Free, multipurpose html5 template
+vice95 Initio - Free, multipurpose html5 template
 =============
 
 Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
@@ -30,3 +30,4 @@ Photos used in the template
 * http://www.publicdomainpictures.net/view-image.php?image=6354
 * http://imcreator.com/free/business/macbook-computer
 * http://unsplush.com
+
